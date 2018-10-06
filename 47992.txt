@@ -1084,7 +1084,7 @@ tolerably full, and he didn't fall very far."
 
 "What did the man do?" asked Appleby.
 
-"Crawled away out of eight, and went to sleep--of course," said the
+"Crawled away out of sight, and went to sleep--of course," said the
 first speaker; "none of them will be much good until to-morrow, but
 there'll be a circus or two on board this packet before we fetch
 Vancouver."
@@ -5870,7 +5870,7 @@ halliards and bending on the mainsail half the night.
 
 It was, however, fortunate they finished the work, for on the next
 evening the _Champlain_ had need of all her speed.  They had crept along
-slowly through the drizzle all clay, but towards sundown the breeze
+slowly through the drizzle all day, but towards sundown the breeze
 suddenly freshened, and a dull red glare flickered for a few minutes on
 the horizon.  It smote a coppery track across the heaving waters as they
 sailed westwards into it, but the smoky vapours came rolling up astern,
@@ -7391,7 +7391,7 @@ hanging round Motter's watching for us there's nothing to stop us
 walking right into the sealing post."
 
 He stopped a moment, and looked straight at Montreal. "Well, now, that
-isn't in the deal you made to go scaling with me, but I heard they had a
+isn't in the deal you made to go sealing with me, but I heard they had a
 white man there."
 
 There was a murmur of astonishment, and Montreal stood up quivering a
@@ -7994,7 +7994,7 @@ On she went, deluging her jibs at every plunge and drenching her
 foresail half-way up, until the reef was close ahead, and Jordan signed
 with his hand.  Then with canvas banging she swept round head to wind,
 and, while the men, who needed no telling, grasped the jib-sheets, hung
-there a few breathless momenta, for everybody on board her knew that if
+there a few breathless moments, for everybody on board her knew that if
 she would not stay, or come round on the other tack, she would be on the
 reef in another minute.  Appleby cast one brief glance at the tumultuous
 spouting and chaos of crumbling seas, and then turned his eyes away, for
@@ -8206,7 +8206,8 @@ strained as he answered him.
 
 "It's behind me now, and the folks I left down there in Vancouver are
 alive and waiting for me.  It's--kind of wonderful, but Ned Jordan fixed
-it all.  Well, I not the only one who'll bless the _Champlain_ and him."
+it all.  Well, I'm not the only one who'll bless the _Champlain_ and
+him."
 
 Niven felt curiously moved as he went down into the hold, and long
 afterwards the memory of the lonely man staring south across the dusky
@@ -8525,7 +8526,7 @@ stripping the canvas off her.  Behind her with the beaver ensign
 streaming at her peak another schooner was beating in, and Niven smiled
 curiously as he followed her with his eyes.
 
-"It's the _Argo_" he said.  "We'll be off in a minute or two--and of
+"It's the _Argo_," he said.  "We'll be off in a minute or two--and of
 course I'm glad we're going home. Still, it hurts a little to leave it
 all behind."
 
@@ -8906,7 +8907,7 @@ into a little schooner, and it would astonish me if he wasn't making
 more of them. Montreal and his brother doing quite well too.  Gone back
 to the carpentering and taking contracts for putting up mining flumes."
 
-"Then there's only yourself, and the _Champlain_" said Niven.
+"Then there's only yourself, and the _Champlain_," said Niven.
 
 Jordan sighed a little.  "We had to part with her. Sealing's not what it
 used to be--too many gun-boats and too much government fussing--and the
